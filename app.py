@@ -2,7 +2,7 @@
 import openai
 
 # Set up your API key for authentication
-api_key = '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'
+api_key = 'apy_key'
 openai.api_key = api_key
 
 # Define a function to interact with ChatGPT
